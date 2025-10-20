@@ -9,6 +9,7 @@ Production ready incldue
 3. Restart when crash, electricity cut suddenly,... by supevisor
 - run ac to start env
 - then run python3
+
 [program:rerun_when_crash]
 command=/bin/bash -c "source /home/nguye/.bashrc && ac && python3 /home/nguye/Project_DEC_K20/project_2/take_tiki_data.py"
 autostart=true
