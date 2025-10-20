@@ -17,5 +17,6 @@ autorestart=true
 stderr_logfile=/home/nguye/Project_DEC_K20/project_2/logs/my_app.err.log
 stdout_logfile=/home/nguye/Project_DEC_K20/project_2/logs/my_app.out.log
 user=nguye
+
 4. Save error in another csv file
 5. split to 4 chunk to increase speed and not casue memory overflow
