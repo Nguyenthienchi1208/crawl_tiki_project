@@ -6,7 +6,7 @@ basicly if we crawl one by one it will take aproximately 28hours to done, instea
 Production ready incldue 
 1. check duplicate
 2. logging to know where batch checkpoint to resume
-3. Restart when crash, electricity cut sudenly,... by supevisor
+3. Restart when crash, electricity cut suddenly,... by supevisor
 - run ac to start env
 - then run python3
 [program:rerun_when_crash]
