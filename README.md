@@ -1,5 +1,5 @@
 # crawl_tiki_project
-
+basicly if we crawl one by one it will take aproximately 28hours to done, instead of that I use asynio to increase speed crawl
 ## Total id success: 198940 id 
 ## Total fail: 1060, error 404 
 
