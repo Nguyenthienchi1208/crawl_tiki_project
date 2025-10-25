@@ -1,5 +1,5 @@
 # crawl_tiki_project
-basicly if we crawl one by one it will take aproximately 28hours to done, instead of that I use asynio to increase speed crawl
+Basicly if we in normal logic it crawl one by one and it will take aproximately about 28 hours to done, instead of that I use asynio to increase speed crawl
 ## Total id success: 198940 id 
 ## Total fail: 1060, error 404 
 
