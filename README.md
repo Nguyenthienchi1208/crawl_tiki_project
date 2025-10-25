@@ -20,3 +20,4 @@ user=nguye
 
 4. Save error in another csv file
 5. split to 4 chunk to increase speed and not casue memory overflow
+6. Send email when crawl completed, when crash (SMTP, supevisor)
